@@ -1,3 +1,8 @@
+# Image example
+![image](https://github.com/SaulMoreyra/react-native-scoll-onboarding/assets/43731088/bf717771-e43d-4b55-8de9-52a6c08c30f6)
+![image](https://github.com/SaulMoreyra/react-native-scoll-onboarding/assets/43731088/702ce1c2-580c-4c43-87b8-cca10b37d8cd)
+
+
 # TypeScript Example
 
 <p>
